@@ -63,7 +63,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  # Core 1: Product Management
  ### What is Product Management
- * [A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman
+ * ~~[A Product Manager’s Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec) - Josh Elman~~
  * [Product Managers: Who are these ‘mini-CEOs’ and what do they do?](http://thenextweb.com/insider/2013/10/12/product-managers-mini-ceos/) - Ken Yeung
  * [What exactly is a Product Manager? ](http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/) - Martin Eriksonn
  * [What is Product Management?](http://www.sachinrekhi.com/blog/2013/01/28/what-is-product-management) - Sachin Rekhi
@@ -96,7 +96,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [4 mistakes new Product Managers make](http://dev.hubspot.com/blog/4-mistakes-new-product-managers-make) - Matt Schnitt
 
  ### Building Great Products
- * [How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet
+ * ~~[How to build great products](http://www.defmacro.org/2013/09/26/products.html) - Slava Akhmechet~~
  * [Make things as simple as possible but not simpler](http://blog.adamnash.com/2013/09/25/make-things-as-simple-as-possible-but-not-simpler/) - Adam Nash
  * [10 essential steps to create products that customer love](http://welovelean.wordpress.com/2013/07/06/10-essential-steps-to-create-products-that-customers-love/) - Laurence McCahill
  * [The power of the perfect slice](http://www.mindtheproduct.com/2013/03/the-power-of-the-perfect-slice/) - Alastair Lee
