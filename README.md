@@ -154,7 +154,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Engineers: So your PM sucks? Here’s how to fix it.](http://blog.ellenchisa.com/2014/07/20/engineers-pm-sucks-heres-fix/) - Ellen Chisa
  * [Nerds, get the Product Management you deserve](https://medium.com/@jeff7091/nerds-get-the-product-management-you-deserve-3bcf849394c2) - Jeff Enderwick
  * [The product manager’s lament](http://www.startuplessonslearned.com/2008/10/product-managers-lament.html) - Eric Ries
- * [Top 5 Ways Product Managers can help Developer’s Love them](https://medium.com/@mstephan/top-5-ways-product-managers-can-help-developers-love-them-4660ef7711d5) - Mark Stephan
+ * ~~[Top 5 Ways Product Managers can help Developer’s Love them](https://medium.com/@mstephan/top-5-ways-product-managers-can-help-developers-love-them-4660ef7711d5) - Mark Stephan ~~
 
  ### User Experience
  * [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan
