@@ -24,3 +24,12 @@ feature, but adding it won’t generate demand.
 "The sooner you can learn about the history of the space, the state of the technology, the opinions of potential users, and the direction of your competition, the sooner you can form a coherent view of the space and develop a unique vision for your product."
 
 - write down a product missions; think of it as a function definition that accepts features and returns one of the three bucket classifications; tells you a lot about what the product does, customers, etc 
+
+11/18
+
+http://www.joelonsoftware.com/articles/fog0000000036.html
+1. reason one to write specs - forces  you to design the program before writing it
+2. reason two - saves time communicating 
+3. reason three - hard to estimate/make a schedule
+
+Practice writing specs - start a blog, take a creative writing class, anything that will help you put words on a page 

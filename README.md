@@ -112,7 +112,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Your MVP is about discovery not product](http://kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt
 
  ### All about those Requirements
- * [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
+ * ~~[Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky~~
  * [Requirements are not](http://www.svpg.com/requirements-are-not/) - Marty Cagan
  * [Feed the beast](http://www.svpg.com/feed-the-beast/) - Marty Cagan
  * [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
