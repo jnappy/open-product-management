@@ -1,4 +1,4 @@
-11/17 reading
+## 11/17 reading
 
 https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec#.hkzbmlr9v
 
@@ -25,7 +25,7 @@ feature, but adding it won’t generate demand.
 
 - write down a product missions; think of it as a function definition that accepts features and returns one of the three bucket classifications; tells you a lot about what the product does, customers, etc 
 
-11/18
+## 11/18
 
 http://www.joelonsoftware.com/articles/fog0000000036.html
 
@@ -46,3 +46,40 @@ how to make devs love you:
 5) Empathy
 
 "When it comes to the product itself, we are a doctor, prescribing what is best for the health of the product. But when it comes to the product team, I believe we are the mothers. I don’t know about your mother, but the mother’s I know are the framework that holds the house together. The dad might be the authoritarian, but the mother is the nurturer. She holds sway by her influence. The mother’s most powerful and natural gift is that of empathy for her children. And for that empathy she has the devout loyalty of her children."
+
+## 12/8 reading
+
+http://www.forbes.com/sites/avidlarizadeh/2014/05/23/ten-principles-on-the-journey-to-building-great-products/#740bdfe46aa9
+
+“Great marketing only makes a bad product fail faster."
+
+Great product people: 
+
+- learned through trial and error
+- have years of experience
+- are passionate about design
+- obsessed with the user experience and always on top of the latest tools and technologies
+
+Silicon Valley Product Group is legit: http://www.svproduct.com/assessing-product-opportunities/
+
+"But don't listen to your customers if it is going to compromise your brand."
+
+Linked to : http://www.svproduct.com/assessing-product-opportunities/
+
+- Market Requirements Doc - describes the opportunity not the solution 
+
+The purpose of a good product opportunity assessment is either to: 
+
+a) prevent the company from wasting time and money on poor opportunities
+b) for those that are good opportunities, to understand what will be required to succeed
+
+1. Exactly what problem will this solve? (value proposition)
+2. For whom do we solve that problem? (target market)
+3. How big is the opportunity? (market size)
+4. What alternatives are out there? (competitive landscape)
+5. Why are we best suited to pursue this? (our differentiator)
+6. Why now? (market window)
+7. How will we get this product to market? (go-to-market strategy)
+8. How will we measure success/make money from this product? (metrics/revenue strategy)
+9. What factors are critical to success? (solution requirements)
+10. Given the above, what’s the recommendation? (go or no-go)
